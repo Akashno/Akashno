@@ -18,6 +18,8 @@ Skills: DJANGO/ REACT / JS / HTML / CSS
 
 
 <div align='center'> 
+  
   ![Profile views](https://gpvc.arturio.dev/Akashno)  
+  
 </div>
 [![Years Badge](https://badges.pufler.dev/years/Akashno)](https://badges.pufler.dev)
