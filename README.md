@@ -30,7 +30,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Akashno's github stats](https://github-readme-stats.vercel.app/api?username=Akashno)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 ![](https://gitwar.herokuapp.com/badge?username=Akashno)
