@@ -4,11 +4,7 @@
 
 
 
-<div align='center'>
 
-  ![Akasho's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akashno&theme=gotham&show_icons=true)
-
-</div>
 <!--- 
 ![GitHub metrics](https://metrics.lecoq.io/Akashno)  
 
@@ -42,3 +38,9 @@
  <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
  
   </div>
+
+<div align='center'>
+
+  ![Akasho's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akashno&theme=gotham&show_icons=true)
+
+</div>
