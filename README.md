@@ -1,5 +1,5 @@
-### Hi there 👋, my name is Akash N O
-#### I am a Junior Django Web developer
+### Its me Akash N O
+#### I am currently mastering my Full stack web development skills using <img alt="Django" src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/> and <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 
 
 
@@ -27,7 +27,7 @@
 [![Years Badge](https://badges.pufler.dev/years/Akashno)](https://badges.pufler.dev)
 --->
 
-###Skills
+### Skills
 
 <div align='center'>
   
