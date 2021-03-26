@@ -16,5 +16,6 @@ Skills: DJANGO/ REACT / JS / HTML / CSS
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Akashno)  
 
+
 ![Profile views](https://gpvc.arturio.dev/Akashno)  
-[![Years Badge](https://badges.pufler.dev/years/Akashno)](https://badges.pufler.dev)
+<div>[![Years Badge](https://badges.pufler.dev/years/Akashno)](https://badges.pufler.dev)</div>
