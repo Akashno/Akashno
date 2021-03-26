@@ -46,7 +46,7 @@
 
 
 
-<div align='center'>
+<div align='right'>
 
   ![Akasho's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akashno&theme=gotham&show_icons=true)
 
