@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 ![](https://gitwar.herokuapp.com/badge?username=Akashno)
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
-<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
+[![trophy](https://github-profile-trophy.vercel.app/?username=Akashno&theme=onedark)](https://github.com/Akashno/github-profile-trophy)
