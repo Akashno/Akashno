@@ -1,8 +1,5 @@
 ### Its me Akash N O
-#### I am currently mastering my Full stack web development skills using <img alt="Django" src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/> and <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-
-
-
+#### I am currently mastering my Full stack web development skills using Django and  React
 
 
 
