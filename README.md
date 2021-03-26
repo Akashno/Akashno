@@ -1,15 +1,15 @@
 
 
 
-### :point_left: 
+### :point_left: Its me Akash N O
+
+
 
 ```json
 
-Its me Akash N O
+I am currently mastering my Full stack web development skills using Django and  React
 
 ``` 
-
-#### I am currently mastering my Full stack web development skills using Django and  React
 
 
 
