@@ -21,3 +21,5 @@ Here are some ideas to get you started:
 ![](https://gitwar.herokuapp.com/badge?username=Akashno)
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
 [![trophy](https://github-profile-trophy.vercel.app/?username=Akashno&theme=onedark)](https://github.com/Akashno/github-profile-trophy)
+<!-- Markdown -->
+![Jokes Card](https://readme-jokes.vercel.app/api)
