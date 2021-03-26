@@ -33,7 +33,3 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 ![](https://gitwar.herokuapp.com/badge?username=Akashno)
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
-[![trophy](https://github-profile-trophy.vercel.app/?username=Akashno&theme=onedark)](https://github.com/Akashno/github-profile-trophy)
-<!-- Markdown -->
-![Jokes Card](https://readme-jokes.vercel.app/api)
