@@ -9,7 +9,11 @@ Skills: DJANGO/ REACT / JS / HTML / CSS
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Akashno)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/n.o.akash/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](nocodes.herokuapp.com)  
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Akashno&show_icons=true)  
 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Akashno)  
+
+![Profile views](https://gpvc.arturio.dev/Akashno)  
 
 <!--
 **Akashno/Akashno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
