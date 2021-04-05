@@ -49,7 +49,6 @@ I am currently mastering my Full stack web development skills using Django and  
   </div>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akashno&layout=compact)](https://github.com/Akashno/github-readme-stats)
 
 
 
