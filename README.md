@@ -7,7 +7,7 @@
 
 ```json
 
-Currently mastering my Full stack web development skills using Django and  React
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 
 ``` 
 
@@ -27,7 +27,7 @@ Currently mastering my Full stack web development skills using Django and  React
 </div>
 [![Years Badge](https://badges.pufler.dev/years/Akashno)](https://badges.pufler.dev)
 --->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+
 ### Skills
 <span> <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/></span> <span > <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/></span> <span> <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/></span> <span > <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></span>
 
