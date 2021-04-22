@@ -45,6 +45,7 @@ Currently mastering my Full stack web development skills using Django and  React
   <img alt="AWS" src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/> 
   <img alt="Heroku" src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/>
   <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
+  <img alt="Stack Overflow" src="https://camo.githubusercontent.com/ff75254119a63edef4bae9307898a708a0b28939faa697e40a9c4088a1cd7b77/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2e4e45542532302d2532333531324244342e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d2e4e4554266c6f676f436f6c6f723d7768697465"/>
   <Badge name="TensorFlow" />
  
   </div>
