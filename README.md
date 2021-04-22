@@ -6,8 +6,8 @@
 
 
 ```json
+Currently mastering my Full stack web development skills using Django and React
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 
 ``` 
 
@@ -19,7 +19,7 @@
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Akashno)  
 
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 <div align='center'> 
   
   ![Profile views](https://gpvc.arturio.dev/Akashno)  
@@ -50,8 +50,7 @@
   </div>
 
 
-
-
-
+ ### Listens to
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=tcjwb1lqp68v38ev7umhwwqs2&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
 
 
