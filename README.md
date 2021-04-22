@@ -51,6 +51,7 @@ Currently mastering my Full stack web development skills using Django and React
 
 
  ### Listens to
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=tcjwb1lqp68v38ev7umhwwqs2&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
+ 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=tcjwb1lqp68v38ev7umhwwqs2&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=tcjwb1lqp68v38ev7umhwwqs2&redirect=true)
 
 
