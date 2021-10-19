@@ -55,7 +55,7 @@ Currently mastering my Full stack Frontend development skills Vue.js
 
 ### i am here
 <div align='left'>
-  <a href="https://wa.me/+919061936162/?text=Hey%20Akash"><img alt="whatsapp"  src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+  <a target="_blank" href="https://wa.me/+919061936162/?text=Hey%20Akash"><img alt="whatsapp"  src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
   <a href="https://noakash.medium.com/"><img alt="medium"  src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
   <a href="https://www.instagram.com/n.o.codes/"><img alt="instagram"  src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>   </a>
   </div>
