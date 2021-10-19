@@ -6,7 +6,7 @@
 
 
 ```json
-Currently mastering my Full stack web development skills using Django and React
+Currently mastering my Full stack Frontend development skills Vue.js
 
 
 ``` 
