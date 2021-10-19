@@ -17,8 +17,7 @@ Currently mastering my Full stack Frontend development skills Vue.js
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Akashno)  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
-<div align='center'> 
+
   
   ![Profile views](https://gpvc.arturio.dev/Akashno)  
   
