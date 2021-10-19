@@ -55,7 +55,7 @@ Currently mastering my Full stack Frontend development skills Vue.js
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=tcjwb1lqp68v38ev7umhwwqs2&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=tcjwb1lqp68v38ev7umhwwqs2&redirect=true)
 
 
-### Get me here
+### Know me here
 <div align='left'>
   <a href="https://wa.me/+919061936162/?text=hi"><img alt="whatsapp"  src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
   <a href="https://noakash.medium.com/"><img alt="medium"  src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
