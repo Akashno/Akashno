@@ -7,8 +7,6 @@
 
 ```json
 Currently mastering my Full stack Frontend development skills Vue.js
-
-
 ``` 
 
 
