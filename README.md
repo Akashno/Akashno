@@ -5,8 +5,8 @@
 
 
 
-```json
-Currently mastering my Full stack Frontend development skills Vue.js
+```js
+Currently mastering my  Frontend development skills with Vue.js
 ``` 
 
 
