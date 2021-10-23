@@ -60,3 +60,10 @@ Currently mastering my Frontend development skills with Vue.js and armino.in
   </div>
 
 
+<div>
+  
+### Read me here
+  
+[![Akash N O MEDIUM](https://github-readme-medium-git-fork-akashno-color-fix-omidnikrah.vercel.app/?username=noakash&text=black)](https://medium.com/@noakash)
+  </div>
+
