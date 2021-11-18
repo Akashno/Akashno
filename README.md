@@ -6,7 +6,7 @@
 
 
 ```js
-Currently mastering my Frontend development skills with Vue.js and armino.in
+Currently mastering my Frontend development skills with Vue.js at armino.in
 ``` 
 
 
