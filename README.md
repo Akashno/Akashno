@@ -62,9 +62,13 @@ Currently mastering my Fullstack development skills with Vue.js and Node.js at a
 
 <div>
   
-<!-- ### Read me here
-  
+### Read me here
+  <a> <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
+
+<!--
 [![Akash N O MEDIUM](https://github-readme-medium.vercel.app/?username=noakash)](https://medium.com/@noakash)
+  -->
   </div>
- -->
+  
+ 
 <!-- [![Akash N O StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=9630323&theme=dark&layout=compact)](https://stackoverflow.com/users/9630323/akash-no) -->
