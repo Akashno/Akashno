@@ -6,7 +6,7 @@
 
 
 ```js
-Currently mastering my Fullstack development skills with Vue.js and Node.js at armino.in
+Currently mastering my Frontend development skills with Nuxt.js at IOCOD
 ``` 
 
 
